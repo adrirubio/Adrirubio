@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I AM THE BEST
 -->
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -16,5 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 ### :fire: My Stats :
