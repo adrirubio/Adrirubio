@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 - 🔭 I’m currently working on Perceptron
 - 🌱 I’m currently learning AI
