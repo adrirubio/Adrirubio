@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true&vCenter=true&width=520&lines=Talk+is+cheap.+Show+me+the+code!!!)](https://git.io/typing-svg)
-
----
-
 ## Hi there 👋
 
 - 🔭 I’m currently working on Perceptron (Transfer Learning AI)
@@ -31,3 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrirubio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+--- 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=520&lines=Talk+is+cheap.+Show+me+the+code!!!)](https://git.io/typing-svg)
