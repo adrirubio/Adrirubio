@@ -26,7 +26,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrirubio&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrirubio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
---- 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=000000&center=true&vCenter=true&width=520&lines=Talk+is+cheap.+Show+me+the+code!!!)](https://git.io/typing-svg)
