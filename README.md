@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Perceptron (Transfer Learning AI)
+- 🔭 I’m currently working on Perceptron
 - 🌱 I’m currently learning AI (PyTorch)
 - 💬 Ask me about Deep Learning
 - 📫 How to reach me: adrian.rubio.punal@gmail.com
