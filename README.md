@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=1024&lines=Talk+is+cheap%2C+show+me+the+code.;A+commit+a+day+keeps+a+girlfriend+away.&center=true&size=27&color=36bcf7)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on Perceptron
