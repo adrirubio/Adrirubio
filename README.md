@@ -25,8 +25,6 @@
 
 ### :fire: My Stats :
 
-[![Profile Views](https://adrirubio.xyz/api/profile-views)](https://github.com/adrirubio)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrirubio&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrirubio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
