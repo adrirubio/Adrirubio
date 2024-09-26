@@ -25,7 +25,7 @@
 
 ### :fire: My Stats :
 
-[![Profile Views](https://exelvi.xyz/api/profile-views)](https://github.com/adrirubio)
+[![Profile Views](https://adrirubio.xyz/api/profile-views)](https://github.com/adrirubio)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrirubio&theme=dark&background=000000)](https://git.io/streak-stats)
 
