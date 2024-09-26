@@ -13,8 +13,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![Profile Views](https://exelvi.xyz/api/profile-views)](https://github.com/adrirubio)
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp; 
@@ -26,6 +24,8 @@
 ---
 
 ### :fire: My Stats :
+
+[![Profile Views](https://exelvi.xyz/api/profile-views)](https://github.com/adrirubio)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrirubio&theme=dark&background=000000)](https://git.io/streak-stats)
 
