@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=1024&lines=Talk+is+cheap%2C+show+me+the+code.;A+commit+a+day+keeps+a+girlfriend+away.&center=true&size=27&color=36bcf7)](https://git.io/typing-svg)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=250&duration=2000&color=03d7fc&width=555&lines=Hi+there!+👋" />
+[![Typing SVG]<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - 🔭 I’m currently working on Perceptron
 - 🌱 I’m currently learning AI (PyTorch)
