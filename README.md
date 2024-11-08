@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/github/stars/adrirubio?label=Stars" alt="stars">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrirubio&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://camo.githubusercontent.com/9aec2dacc4cbf1572b59aba5aa6e5fca4ba871048afe5ae90b421e6336663fce/68747470733a2f2f692e696d6775722e636f6d2f6f7672567254592e706e67?user=adrirubio&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrirubio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
