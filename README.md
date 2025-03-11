@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 🌍 Check out my blog: adrianrubio.org
+- 🌍 Check out my blog: [adrianrubio.org](https://adrianrubio.org)
 - 🛠️ Currently working on: ml-rover 
 - 📖 Learning: PyTorch & advanced Deep Learning
 - 🤖 Ask me about: AI, ML, and all things Deep Learning
