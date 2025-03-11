@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-🌍 Check out my blog: adrianrubio.org
-🛠️ Currently working on: ml-rover 
-📖 Learning: PyTorch & advanced Deep Learning
-🤖 Ask me about: AI, ML, and all things Deep Learning
-📬 Reach me at: adrian.rubio.punal@gmail.com
+- 🌍 Check out my blog: adrianrubio.org
+- 🛠️ Currently working on: ml-rover 
+- 📖 Learning: PyTorch & advanced Deep Learning
+- 🤖 Ask me about: AI, ML, and all things Deep Learning
+- 📬 Reach me at: adrian.rubio.punal@gmail.com
 ⚡ Fun fact: I AM THE BEST!!! (And I have the data to prove it 😉)
 -->
 
