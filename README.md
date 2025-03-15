@@ -5,7 +5,7 @@
 - 📖 Learning: PyTorch & advanced Deep Learning
 - 🤖 Ask me about: AI, ML, and all things Deep Learning
 - 📬 Reach me at: adrian.rubio.punal@gmail.com
-⚡ Fun fact: I AM THE BEST!!! (And I have the data to prove it 😉)
+- ⚡ Fun fact: I AM THE BEST!!! (And I have the data to prove it 😉)
 -->
 
 ---
