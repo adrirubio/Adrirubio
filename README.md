@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!</h1>
+Hey!</h1>
 
 - Check out my blog: [adrianrubio.org](https://adrianrubio.org)
 - Reach me at: adrian.rubio.punal@gmail.com
